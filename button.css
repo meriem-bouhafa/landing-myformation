@@ -1,0 +1,18 @@
+.btn-blue {
+	background-color: black;
+	padding: 15px 5px; 
+	border-radius: 4px;
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Bebas Neue', sans-serif;
+	position: center;
+	display: grid; 
+	width: 193px;
+}
+
+.container a {
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+}
